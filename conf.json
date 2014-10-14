@@ -1,0 +1,6 @@
+{
+    "cms2000.tcp": "192.168.1.250:4001",
+    "currentcost.device": "/dev/ttyUSB0",
+    "currentcost.baudrate": 57600,
+    "limitlessled.udp": "255.255.255.255:8899"
+}
