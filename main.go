@@ -3,9 +3,9 @@ package main
 import (
 	"config"
 	"fmt"
-	"github.com/stsmedia/thingbricks-drivers/cms2000"
-	"github.com/stsmedia/thingbricks-drivers/currentcost"
-	"github.com/stsmedia/thingbricks-drivers/limitlessled"
+	"cms2000"
+	"currentcost"
+	"limitlessled"
 )
 
 func main() {
